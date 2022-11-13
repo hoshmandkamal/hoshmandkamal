@@ -12,7 +12,7 @@ and back end technology and working with API and version control system
  <br>
  <br>
 
-- 🔭 I’m currently working on **Livewire & Laravel 
+- 🔭 I’m currently working on **VUE JS & Laravel 
 
 - 🌱 I’m currently learning **Flutter and REST API**
 
