@@ -14,7 +14,7 @@ and back end technology and working with API and version control system
 
 - 🔭 I’m currently working on **VUE JS & Laravel 
 
-- 🌱 I’m currently learning **Inertia js and vue js**
+- 🌱 I’m currently learning **Inertia js**
 
 - 📫 How to reach me [HoshmandG900](https://mail.google.com/mail/u/2/#inbox?compose=new)
 
